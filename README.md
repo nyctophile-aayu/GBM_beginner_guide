@@ -17,7 +17,7 @@ Database, reduce, and analyze GBM data without having to know anything. Curiosit
 
 * Creates a MongoDB database of GRBs observed by GBM. 
 * Heuristic algorithms are applied to search for the background regions in the time series of GBM light curves. 
-* Analysis notebooks can be generated on the fly for both time-instegrated and time-resolved spectral fitting. 
+* Analysis notebooks can be generated on the fly for both time-integrated and time-resolved spectral fitting. 
 
  <p style="color: red;"> Of course, this analysis is highly opinionated.</p>
 
